@@ -1,4 +1,4 @@
-Simple web-console application for WildFly's built-in h2 database
+Simple web-console application for WildFly's built-in H2 database
 
 1. mvn package
 2. deploy h2-console.war to your WildFly
